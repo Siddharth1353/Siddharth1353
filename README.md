@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
+<p  align="center">(Trust me, I'm a developer)</p>
 <h3 align="center">A Full Stack Developer passionate about building cool stuff that ends up exciting me !</h3>
 
 <p align="center">
@@ -56,30 +57,34 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sid&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddharth1353&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Siddharth1353&theme=radical" width="45%" />
 </p>
 
 ---
 
 ### 🚀 Projects
 
-- 🧩 [QuizPlay Learn](https://github.com/alexdev123/quizplay-learn) – Gamified quiz platform powered by YouTube learning
-- 🌍 [DevPortfolio](https://github.com/alexdev123/devportfolio) – A customizable portfolio template for developers
+- 🧩 [PlaceMentor](https://github.com/Team-Wu-Shang-Clan) – A PLatform that helps to master placement preparation.
+- 🌍 [Chatme](https://github.com/Siddharth1353/LetsChat) – Online Real time Chatting Application.
 - 🗂️ [Taskify](https://github.com/alexdev123/taskify) – Kanban-style task management app with drag-and-drop
 
 ---
 
 ### 🌐 Connect With Me
 
+
+Feeling curious? Got a cool project? Or just want to drop a meme?  
+Come say hi — I don’t bite (unless it’s JavaScript errors 😅)
+
 <p>
-  <a href="https://linkedin.com/in/alexdev" target="_blank">
+  <a href="https://www.linkedin.com/in/siddharth-rajpurohit-5075b3249/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/alexcodes" target="_blank">
+  <a href="https://x.com/SIDDHAR10087543" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://alexdev.com" target="_blank">
+  <a href="https://github.com/Siddharth1353" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
