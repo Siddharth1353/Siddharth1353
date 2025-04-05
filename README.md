@@ -1,55 +1,63 @@
-<img src="https://komarev.com/ghpvc/?username=parthhcodess&label=Visitors&color=0e75b6&style=flat" alt="Visitor Badge" />
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+<h1 align="center">Hi 👋, I'm Alex</h1>
+<h3 align="center">A Full Stack Developer passionate about building impactful web applications</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
-<h1 align="center">Hey Coders<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">, I am Sid</h1>
-<h3 align="center">I am a Tech Enthusiast and a Developer, loving life and exploring new realms.</h3>
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently building a project using **React, Node.js, PostgreSQL**
+- 🌱 I’m learning **Docker, GraphQL**
+- 💬 Ask me about **Full Stack Web Development**
+- 📫 Reach me at: [alex.dev@email.com](mailto:alex.dev@email.com)
+- ⚡ Fun fact: I love debugging more than coding (weird, I know 😄)
 
 ---
 
-### 🌌Areas of Interest:
- `FullStack` `DSA` 
+### 💻 Tech Stack
 
----
-
-## 🙋‍♂️ About Me
-
-- 🖇️ Like to build and create stuff using FullStack .
-- 🧩 Eager to learn more in Tech and Coding.
-- 🥅 Exploring Linux and want to contribute more in Open Source
-
----
-
-<!-- ## ⚡Tools & Tech:-->
-
-### Languages:
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=parthhcodess&background=40%2C13131A%2C13131A&sideNums=EB5454&currStreakNum=EB5454&sideLabels=EBEBEB&border=030312" alt="GitHub Streak" /></a>
-    </a>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
 </p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=parthhcodess&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&hide=stars" alt="Parth Mandawaria's GitHub Stats" />
+### 📈 GitHub Stats
 
-
-## Connect with me:
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexdev123&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexdev123&theme=radical" width="45%" />
+</p>
 
-<a href = "https://www.linkedin.com/in/siddharth-rajpurohit-5075b3249/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+---
 
+### 🚀 Projects
+
+- 🧩 [QuizPlay Learn](https://github.com/alexdev123/quizplay-learn) – Gamified quiz platform powered by YouTube learning
+- 🌍 [DevPortfolio](https://github.com/alexdev123/devportfolio) – A customizable portfolio template for developers
+- 🗂️ [Taskify](https://github.com/alexdev123/taskify) – Kanban-style task management app with drag-and-drop
+
+---
+
+### 🌐 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/in/alexdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/alexcodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://alexdev.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white" />
+  </a>
 </p>
