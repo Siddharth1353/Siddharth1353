@@ -1,4 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=parthhcodess&label=Visitors&color=0e75b6&style=flat" alt="Visitor Badge" />
+https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
 
 <h1 align="center">Hey Coders<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="50px">, I am Sid</h1>
 <h3 align="center">I am a Tech Enthusiast and a Developer, loving life and exploring new realms.</h3>
