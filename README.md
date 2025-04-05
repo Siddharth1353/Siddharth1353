@@ -67,7 +67,6 @@
 
 - 🧩 [PlaceMentor](https://github.com/Team-Wu-Shang-Clan) – A PLatform that helps to master placement preparation.
 - 🌍 [Chatme](https://github.com/Siddharth1353/LetsChat) – Online Real time Chatting Application.
-- 🗂️ [Taskify](https://github.com/alexdev123/taskify) – Kanban-style task management app with drag-and-drop
 
 ---
 
