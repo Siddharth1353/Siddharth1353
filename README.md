@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A Full Stack Developer passionate about building impactful web applications</h3>
+<h1 align="center">Hi 👋, I'm Siddharth</h1>
+<h3 align="center">A Full Stack Developer passionate about building cool stuff that ends up exciting me !</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Funny deploy GIF" />
+</p>
+
+
 </p>
 
 ---
@@ -10,32 +14,50 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently building a project using **React, Node.js, PostgreSQL**
-- 🌱 I’m learning **Docker, GraphQL**
 - 💬 Ask me about **Full Stack Web Development**
-- 📫 Reach me at: [alex.dev@email.com](mailto:alex.dev@email.com)
-- ⚡ Fun fact: I love debugging more than coding (weird, I know 😄)
+- 📫 Reach me at: [sidpvt.2003@gmail.com](mailto:sidpvt.2003@gmail.com)
+- ⚡ Fun fact: I once fixed a bug by taking a nap... highly recommend
+
+
+<p align = "center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlzYzkyZm5idDhxbnMxMDdpMGtpYzN5aXpoN3JzaGFidDYxa2hkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/25Itcrcuwkyq3ohubJ/giphy.gif" width="200" />
+</p>
 
 ---
 
+
+
 ### 💻 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
+<table align = "center" width = "300">
+  <tr>
+    <td align="left" valign="top">
+      <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></p>
+      <p><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></p>
+    </td>
+    <td align="left" valign="top">
+      <p><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdev123&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alexdev123&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sid&theme=radical" width="45%" />
 </p>
 
 ---
